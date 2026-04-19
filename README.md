@@ -69,7 +69,6 @@ You can copy the entire content above into your new repository's **README.md** f
 
 **Tips for GitHub**:
 - Add a clear repository description: "Interactive Power BI Dashboard analyzing Crimes Against Women in India using NCRB data (2001-2022)"
-- Upload your `.pbix` file
 - Add screenshots of the dashboard pages in the README (highly recommended for better visibility)
 
 Would you like me to make a shorter version, add installation/usage steps, or include sample DAX measures?
